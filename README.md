@@ -28,21 +28,13 @@ Data Exploration
 
 Descriptive statistics (mean, median, std, min, max)
 
-Frequency counts of categorical variables
-
 Univariate Analysis
 
 Histograms for Age, Fare
 
-Boxplots to detect outliers
-
 Bivariate Analysis
 
 Gender vs Survival (PivotTable & charts)
-
-Class vs Survival
-
-Age vs Fare scatterplots
 
 Correlation Analysis
 
